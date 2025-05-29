@@ -2,7 +2,7 @@
 - 👀 I’m interested in physical optics, matlab, python~
 - 🌱 I’m currently learning matlab, python~
 - 💞️ I’m looking to collaborate on physical optics simulation~
-- 📫 How to reach me whb2001@hust.edu.cn
+- 📫 How to reach me whb2023@hust.edu.cn
 
 <!---
 luo-wang/luo-wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
